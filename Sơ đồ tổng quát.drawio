@@ -29,9 +29,6 @@
         <mxCell id="Wt5y_4TfYvBbNc9cb09d-11" value="Đọc bài viết" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="266" y="29" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Wt5y_4TfYvBbNc9cb09d-12" value="Quản lí người dùng" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="667" y="-8" width="120" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="Wt5y_4TfYvBbNc9cb09d-13" value="Tìm kiếm công thức" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="120" width="120" height="80" as="geometry" />
         </mxCell>
